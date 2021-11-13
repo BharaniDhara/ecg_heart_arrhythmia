@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ECG8238'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADF9F1FF5EC641889F394C142546C608 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5F1964F2E1C47EDB465AAE3026D3EB5 }}
